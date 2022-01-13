@@ -1,3 +1,3 @@
 # Music_Player
-I developed Music Player using HTML, CSS and JavaScript
+I developed Music Player using JavaScript
 
