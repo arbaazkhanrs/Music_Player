@@ -1,3 +1,3 @@
 # Music_Player
-I developed Music Player using JavaScript
+Developed Music Player using HTML, CSS and JavaScript it is type of clone where user can play the songs.
 
